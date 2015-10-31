@@ -1,0 +1,12 @@
+bin
+*.log
+*.so
+*.dll
+*.class
+*~
+.gradle
+gradle
+*.ipr
+*.iws
+*.iml
+build
